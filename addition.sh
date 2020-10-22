@@ -4,3 +4,4 @@ b=13
 sum=$($a+$b)
 echo $sum
 echo "the changes are made"
+#echo $sum
