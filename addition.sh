@@ -5,3 +5,6 @@ sum=$($a+$b)
 echo $sum
 echo "the changes are made"
 #echo $sum
+sub=$($a-$b)
+echo $sub
+
